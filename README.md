@@ -11,29 +11,6 @@ I'm a Computer Science student at Cornell University interested in full-stack so
 
 ---
 
-## Featured Projects 🚀
-
-### - AI Arena
-
-### - Bear Study Buddy
-
-### - E-Commerce Purchase Prediction Model
-
----
-
-## Tech Stack 🛠
-
-**Languages:**  
-Python, Java, JavaScript, TypeScript, HTML, CSS
-
-**Frameworks & Libraries:**  
-React, Next.js, Node.js, Express.js, FastAPI, Pandas, NumPy, ROS2
-
-**Technologies:**  
-Firebase, MongoDB, Docker, Git/GitHub
-
----
-
 ## GitHub Stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris320211&layout=donut)](https://github.com/chris320211/github-readme-stats)

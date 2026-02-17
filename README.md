@@ -6,6 +6,6 @@ I'm a Computer Science student at Cornell University interested in full-stack so
 
 ## What I'm Working On Currently 🔧
 
-- Building an AI agent that tracks, interprets, and stores data from short video clips of a computer GUI
+- Building a product that is aimed for UGC creators. Check out the current MVP: https://www.creators-flow.com/
 - Expanding and refining previous projects
 

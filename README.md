@@ -6,6 +6,6 @@ I'm a Computer Science student at Cornell University interested in full-stack so
 
 ## What I'm Working On Currently 🔧
 
-- Building a product that is aimed for UGC creators. Check out the current MVP: https://www.creators-flow.com/
+- Exploring quantization methods on AWS Trainium
 - Expanding and refining previous projects
 

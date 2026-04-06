@@ -1,6 +1,6 @@
 # Hey, I'm Chris 👋
 
-CS student at Cornell University interested in building agentic systems and optimizing LLMs along with some full-stack development.
+I'm a CS student at Cornell University interested in building agentic systems and optimizing LLMs along with some full-stack development.
 
 I enjoy exploring the intersection of hardware and scalable software solutions, from playing around with a Raspberry Pi 4 I purchased to run OpenClaw to building AI-integrated web applications.
 

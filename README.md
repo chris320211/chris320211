@@ -52,25 +52,3 @@ I enjoy exploring the intersection of hardware and scalable software solutions, 
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
-## Languages 📊
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## GitHub Stats 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chris320211&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chris320211&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-📫 [cz585@cornell.edu](mailto:cz585@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/chriszhang83/)

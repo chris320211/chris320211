@@ -3,7 +3,6 @@
 CS student at Cornell University interested in building agentic systems and optimizing LLMs along with some full-stack development.
 I enjoy exploring the intersection of hardware and scalable software solutions, from playing around with a Raspberry Pi 4 I purchased to run OpenClaw to building AI-integrated web applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=chris320211&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriszhang83/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cz585@cornell.edu)
 

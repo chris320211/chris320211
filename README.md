@@ -1,6 +1,7 @@
 # Hey, I'm Chris 👋
 
 CS student at Cornell University interested in building agentic systems and optimizing LLMs along with some full-stack development.
+
 I enjoy exploring the intersection of hardware and scalable software solutions, from playing around with a Raspberry Pi 4 I purchased to run OpenClaw to building AI-integrated web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriszhang83/)
@@ -51,3 +52,11 @@ I enjoy exploring the intersection of hardware and scalable software solutions, 
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
+
+## Outside of Code 🎯
+
+🏓 I love to play **Pickleball**  
+🏋️ I enjoy going to the **Gym**  
+🚗 I'm interested in **Cars**  
+🎮 I sometimes play **TFT**

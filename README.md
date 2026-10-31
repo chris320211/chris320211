@@ -4,7 +4,7 @@ I'm a CS student at Cornell University. Feel free to connect with me or reach ou
 
 In my free time I am...
 - Investigating how agents can be utilized to help optimize inference through quantization
-- Working actively on benchmarking the results of my QuantPort project: Can the quantized models can perform agentic tasks well?
+- Working on benchmarking the results of QuantPort: Can the quantized models can perform agentic tasks well?
 - Updating my app Rallor (Duolingo for people in Tech)
 
 
